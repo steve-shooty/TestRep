@@ -1,2 +1,2 @@
 # TestRep
-Ein Projekt auf Git testen.
+Ein Projekt mit Github testen.
